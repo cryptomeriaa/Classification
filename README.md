@@ -1,1 +1,0 @@
-Vegetable classification and recognition
